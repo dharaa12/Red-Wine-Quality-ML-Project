@@ -1,4 +1,4 @@
-# Red Wine Quality Analysis Project 
+# Red Wine Quality Prediction Project 
 # Overview
 This project builds a machine learning model to predict the quality of red wine based on its various chemical attributes, such as acidity, sugar content, pH, alcohol percentage, and more. 
 # Data Description
